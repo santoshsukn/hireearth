@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+#root{
+  background-color: #f2ebf7;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.err-message{
+  font-size: 18px
+}
+
+.alert{
+  font-size: 20px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.alert-danger{
+  background: red;
+}
+
+.logo{
+  float:right;
+  width:200px;
+  padding-right: 20px;
+  height: 50px;
+}
